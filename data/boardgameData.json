@@ -1,0 +1,49 @@
+    { 
+        "gameboardData": [
+    {
+        "name": "Gloomhaven",
+        "year": 2017,
+        "image_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1559254920151-51ulRXlJ7LL.jpg",
+        "price": 139.99,
+        "publisher_id": "Cephalofair Games",
+        "categories": "cooperative",
+        "min_players": 1,
+        "max_players": 4,
+        "have_played": false
+    },
+    {
+        "name": "Catan",
+        "year": 1995,
+        "image_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1559258096678-51Eiofu9mqL.jpg",
+        "price": 49.00,
+        "publisher_id": "Catan Studio",
+        "categories": "strategy",
+        "min_players": 3,
+        "max_players": 4,
+        "have_played": true
+
+    },
+    {
+        "name": "Scythe",
+        "year": 2016,
+        "image_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1559254971843-513-lrmjs2L.jpg",
+        "price": 79.99,
+        "publisher_id": "Stonemaier Games",
+        "categories": "strategy",
+        "min_players": 1,
+        "max_players": 5,
+        "have_played": true
+
+    },
+    {
+        "name": "Pandemic",
+        "year": 2008,
+        "image_url": "https://s3-us-west-1.amazonaws.com/5cc.images/games/uploaded/1559254186140-51iNoyxoamL.jpg",
+        "price": 39.99,
+        "publisher_id": "Z-Man Games",
+        "categories": "cooperative",
+        "min_players": 2,
+        "max_players": 4,
+        "have_played": false
+    }
+]}
